@@ -15,6 +15,7 @@ export default function Home() {
       <Image src="/4.jpg" width={300} height={300} alt="logo"/>
       <p>Welcome To My Shop</p>
       <Link href="/products" className={styles.btn}>ดูสินค้าทั้งหมด</Link>
+       
     </div>
     </>
   );
